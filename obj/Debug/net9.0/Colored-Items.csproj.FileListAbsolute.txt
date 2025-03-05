@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\bin\Debug\net9.0\Colored-Items.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\bin\Debug\net9.0\Colored-Items.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\bin\Debug\net9.0\Colored-Items.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\bin\Debug\net9.0\Colored-Items.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\bin\Debug\net9.0\Colored-Items.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\refint\Colored-Items.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\Colored-Items.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\Colored-Items\obj\Debug\net9.0\ref\Colored-Items.dll
